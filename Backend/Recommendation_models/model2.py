@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer, util
 # -----------------------------
 # Load TinyBERT model
 # -----------------------------
-model = SentenceTransformer("paraphrase-TinyBERT-L6-v2")
+model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
 # -----------------------------
 # Pickle folder

@@ -4,7 +4,7 @@ from sentence_transformers import SentenceTransformer, util
 import pandas as pd
 
 class InternshipRecommender:
-    def __init__(self, pickle_folder=r"C:\Users\LATITUDE\Desktop\python\Intership_recommender\Backend\Recommendation_models\embeddings_pickle_folder\domain_pickles", model_name="paraphrase-TinyBERT-L6-v2"):
+    def __init__(self, pickle_folder=r"C:\Users\LATITUDE\Desktop\python\Intership_recommender\Backend\Recommendation_models\embeddings_pickle_folder\domain_pickles", model_name="sentence-transformers/all-MiniLM-L6-v2"):
         self.pickle_folder = pickle_folder
         self.model = SentenceTransformer(model_name)
 
@@ -69,9 +69,6 @@ class InternshipRecommender:
             "recommendations": filtered[:top_n]
         }
 
-# -----------------------------
-# Example usage
-# -----------------------------
 if __name__ == "__main__":
     recommender = InternshipRecommender()
     user_skills = ["nlp", "nltk"]
