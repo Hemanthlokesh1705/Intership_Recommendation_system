@@ -1,0 +1,1227 @@
+[
+  {
+    "title": "AI Research Intern",
+    "domain": "IT & ITeS",
+    "description": "Work on cutting-edge machine learning projects including natural language processing and computer vision. Assist in developing and fine-tuning deep learning models using TensorFlow and PyTorch. Collaborate with senior researchers on publishing research papers and implementing AI solutions for real-world problems.",
+    "stipend": "₹15,000 - ₹25,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Data Science Intern",
+    "domain": "IT & ITeS",
+    "description": "Analyze large datasets to extract meaningful insights and build predictive models. Create data visualizations and dashboards using tools like Tableau and Power BI. Support the data science team in developing automated reporting systems and machine learning pipelines.",
+    "stipend": "₹12,000 - ₹20,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Cybersecurity Analyst Intern",
+    "domain": "IT & ITeS",
+    "description": "Monitor network security and investigate potential threats using SIEM tools. Assist in vulnerability assessments and penetration testing activities. Learn about incident response procedures and help implement security best practices across the organization.",
+    "stipend": "₹10,000 - ₹18,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Cloud DevOps Intern",
+    "domain": "IT & ITeS",
+    "description": "Support cloud infrastructure deployment and management on AWS, Azure, or GCP. Work with containerization technologies like Docker and Kubernetes. Assist in setting up CI/CD pipelines and automating deployment processes using tools like Jenkins and Terraform.",
+    "stipend": "₹14,000 - ₹22,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Full-Stack Developer Intern",
+    "domain": "IT & ITeS",
+    "description": "Develop web applications using modern frameworks like React, Node.js, and MongoDB. Collaborate with UX designers to implement responsive user interfaces. Work on both frontend and backend components, including API development and database optimization.",
+    "stipend": "₹12,000 - ₹20,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Mobile App Development Intern",
+    "domain": "IT & ITeS",
+    "description": "Build native and cross-platform mobile applications using React Native or Flutter. Work on user interface design and implement features based on user feedback. Assist in app testing, debugging, and deployment to app stores.",
+    "stipend": "₹10,000 - ₹16,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Blockchain Developer Intern",
+    "domain": "IT & ITeS",
+    "description": "Develop smart contracts using Solidity and work on decentralized applications (DApps). Learn about blockchain architecture and consensus mechanisms. Assist in building cryptocurrency wallets and implementing blockchain solutions for supply chain management.",
+    "stipend": "₹15,000 - ₹25,000",
+    "location": "Remote"
+  },
+  {
+    "title": "AR/VR Developer Intern",
+    "domain": "IT & ITeS",
+    "description": "Create immersive virtual and augmented reality experiences using Unity and C#. Work on 3D modeling and animation for VR applications. Assist in developing AR solutions for mobile devices and collaborate on innovative XR projects.",
+    "stipend": "₹12,000 - ₹18,000",
+    "location": "Gurgaon"
+  },
+  {
+    "title": "IoT Systems Intern",
+    "domain": "Engineering & Manufacturing",
+    "description": "Design and develop Internet of Things solutions using Arduino, Raspberry Pi, and various sensors. Work on data collection from connected devices and implement communication protocols. Assist in building dashboards for IoT data visualization and analytics.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Coimbatore"
+  },
+  {
+    "title": "Robotics Engineering Intern",
+    "domain": "Engineering & Manufacturing",
+    "description": "Work on robotic system design and programming using ROS (Robot Operating System). Assist in developing autonomous navigation algorithms and sensor integration. Participate in testing and debugging robotic prototypes for industrial applications.",
+    "stipend": "₹10,000 - ₹18,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "UI/UX Design Intern",
+    "domain": "IT & ITeS",
+    "description": "Create user-centered design solutions for web and mobile applications. Conduct user research and usability testing to improve product interfaces. Work with design tools like Figma and Adobe Creative Suite to develop wireframes and prototypes.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Quality Assurance Intern",
+    "domain": "IT & ITeS",
+    "description": "Perform manual and automated testing of software applications to ensure quality and functionality. Write test cases and execute regression testing procedures. Learn about testing frameworks like Selenium and participate in bug tracking and resolution processes.",
+    "stipend": "₹7,000 - ₹12,000",
+    "location": "Noida"
+  },
+  {
+    "title": "Digital Marketing Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Manage social media campaigns and create engaging content for various digital platforms. Analyze marketing metrics using Google Analytics and social media insights. Assist in SEO optimization and email marketing campaigns to drive brand awareness.",
+    "stipend": "₹6,000 - ₹12,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Content Marketing Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Create compelling blog posts, articles, and marketing copy for various channels. Research industry trends and develop content strategies to engage target audiences. Collaborate with design teams to produce multimedia content and manage content calendars.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Remote"
+  },
+  {
+    "title": "Growth Marketing Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Support customer acquisition strategies through data-driven marketing experiments. Analyze conversion funnels and user behavior to identify growth opportunities. Assist in A/B testing campaigns and implementing growth hacking techniques.",
+    "stipend": "₹10,000 - ₹16,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Brand Marketing Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Assist in developing brand identity and positioning strategies for target markets. Support brand campaign execution across multiple touchpoints. Conduct market research and competitive analysis to inform brand decisions.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Investment Banking Intern",
+    "domain": "BFSI",
+    "description": "Support financial modeling and valuation analysis for M&A transactions. Assist in preparing pitch decks and conducting industry research. Learn about capital markets and participate in due diligence processes for investment opportunities.",
+    "stipend": "₹15,000 - ₹30,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Risk Management Intern",
+    "domain": "BFSI",
+    "description": "Analyze credit risk and market risk for financial portfolios using statistical models. Support compliance monitoring and regulatory reporting activities. Assist in developing risk assessment frameworks and stress testing scenarios.",
+    "stipend": "₹12,000 - ₹20,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Fintech Product Intern",
+    "domain": "BFSI",
+    "description": "Work on developing innovative financial technology solutions and mobile payment systems. Assist in user experience research for digital banking products. Support product testing and launch activities for new fintech features.",
+    "stipend": "₹10,000 - ₹18,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Financial Analyst Intern",
+    "domain": "BFSI",
+    "description": "Perform financial analysis and create reports for investment decisions. Support budget planning and forecasting activities. Learn about financial instruments and assist in portfolio management tasks.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Medical Research Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Assist in clinical research studies and data collection for pharmaceutical trials. Support laboratory experiments and analyze research findings. Learn about regulatory compliance in healthcare and contribute to research publications.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Healthcare Technology Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Work on developing digital health solutions and medical device software. Assist in implementing electronic health record systems and telemedicine platforms. Support healthcare data analytics and patient management system development.",
+    "stipend": "₹12,000 - ₹20,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Biotechnology Research Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Conduct laboratory experiments in molecular biology and genetic engineering. Assist in drug discovery research and protein analysis. Learn about bioinformatics tools and support research documentation and patent applications.",
+    "stipend": "₹10,000 - ₹16,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Content Creation Intern",
+    "domain": "Media & Entertainment",
+    "description": "Create engaging video content for social media platforms and digital channels. Assist in video editing, scriptwriting, and post-production activities. Collaborate with creative teams to develop multimedia campaigns and branded content.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Film Production Intern",
+    "domain": "Media & Entertainment",
+    "description": "Support film and television production activities including pre-production planning and on-set assistance. Learn about camera operations, lighting techniques, and post-production workflows. Assist in managing production schedules and equipment.",
+    "stipend": "₹6,000 - ₹12,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Game Development Intern",
+    "domain": "Media & Entertainment",
+    "description": "Develop mobile and PC games using Unity and Unreal Engine. Work on game mechanics, level design, and user interface elements. Participate in playtesting sessions and help optimize game performance across different platforms.",
+    "stipend": "₹10,000 - ₹18,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Management Consulting Intern",
+    "domain": "Management",
+    "description": "Support client engagements by conducting market research and competitive analysis. Assist in developing strategic recommendations and business process improvements. Learn about project management methodologies and client presentation skills.",
+    "stipend": "₹12,000 - ₹25,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Business Development Intern",
+    "domain": "Management",
+    "description": "Identify new business opportunities and support partnership development activities. Assist in lead generation and client relationship management. Learn about sales processes and help prepare business proposals and presentations.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Operations Management Intern",
+    "domain": "Management",
+    "description": "Support operational efficiency improvements and process optimization initiatives. Assist in supply chain management and vendor relationship coordination. Learn about lean manufacturing principles and help implement operational best practices.",
+    "stipend": "₹10,000 - ₹16,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Hotel Management Intern",
+    "domain": "Tourism & Hospitality",
+    "description": "Gain hands-on experience in hotel operations including front desk, housekeeping, and guest services. Learn about revenue management and hotel booking systems. Assist in organizing events and managing customer relationships.",
+    "stipend": "₹6,000 - ₹12,000",
+    "location": "Goa"
+  },
+  {
+    "title": "Travel Planning Intern",
+    "domain": "Tourism & Hospitality",
+    "description": "Assist clients in planning customized travel itineraries and vacation packages. Research destinations and coordinate with travel vendors for bookings. Learn about travel industry software and customer service best practices.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Jaipur"
+  },
+  {
+    "title": "Event Management Intern",
+    "domain": "Tourism & Hospitality",
+    "description": "Support planning and execution of corporate events, weddings, and conferences. Coordinate with vendors, manage logistics, and ensure smooth event operations. Learn about event marketing and customer experience management.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Supply Chain Analytics Intern",
+    "domain": "Logistics & Supply Chain",
+    "description": "Analyze supply chain data to identify optimization opportunities and cost reduction strategies. Support inventory management and demand forecasting activities. Learn about logistics software and help implement process improvements.",
+    "stipend": "₹10,000 - ₹16,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Warehouse Operations Intern",
+    "domain": "Logistics & Supply Chain",
+    "description": "Support warehouse management activities including inventory tracking and order fulfillment. Learn about automated warehouse systems and quality control processes. Assist in optimizing storage layouts and improving operational efficiency.",
+    "stipend": "₹7,000 - ₹12,000",
+    "location": "Bhiwandi"
+  },
+  {
+    "title": "Accounts Payable Intern",
+    "domain": "Accounts",
+    "description": "Process vendor invoices and manage accounts payable transactions. Assist in month-end closing procedures and financial reconciliation activities. Learn about accounting software and help maintain accurate financial records.",
+    "stipend": "₹6,000 - ₹11,000",
+    "location": "Kolkata"
+  },
+  {
+    "title": "Tax Advisory Intern",
+    "domain": "Accounts",
+    "description": "Support tax preparation and compliance activities for individual and corporate clients. Learn about tax regulations and assist in tax planning strategies. Help prepare tax returns and maintain client documentation.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "EdTech Product Intern",
+    "domain": "Education & Training",
+    "description": "Work on developing educational technology platforms and online learning solutions. Assist in creating interactive course content and assessment tools. Support user testing and product improvement initiatives for educational apps.",
+    "stipend": "₹10,000 - ₹17,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Curriculum Development Intern",
+    "domain": "Education & Training",
+    "description": "Assist in designing and developing educational curricula for various subjects and skill levels. Research pedagogical best practices and create engaging learning materials. Support instructor training and educational program evaluation.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Remote"
+  },
+  {
+    "title": "Renewable Energy Intern",
+    "domain": "Energy & Sustainability",
+    "description": "Support renewable energy project development and feasibility studies. Assist in solar and wind energy system design and installation planning. Learn about energy storage technologies and grid integration challenges.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Ahmedabad"
+  },
+  {
+    "title": "Sustainability Consulting Intern",
+    "domain": "Energy & Sustainability",
+    "description": "Help organizations develop and implement sustainability strategies and environmental impact assessments. Assist in carbon footprint analysis and sustainable supply chain initiatives. Learn about ESG reporting and green certification processes.",
+    "stipend": "₹10,000 - ₹16,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Agricultural Technology Intern",
+    "domain": "Agriculture & Rural Development",
+    "description": "Work on precision agriculture solutions using IoT sensors and data analytics. Assist in developing mobile applications for farmers and agricultural market platforms. Support research on sustainable farming practices and crop optimization.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Rural Development Intern",
+    "domain": "Agriculture & Rural Development",
+    "description": "Support community development programs and rural livelihood initiatives. Assist in implementing government schemes and microfinance programs. Learn about social impact assessment and help coordinate with local stakeholders.",
+    "stipend": "₹5,000 - ₹10,000",
+    "location": "Nashik"
+  },
+  {
+    "title": "Policy Research Intern",
+    "domain": "Public Policy & Governance",
+    "description": "Conduct research on public policy issues and analyze government regulations. Assist in preparing policy briefs and impact assessment reports. Learn about stakeholder engagement and help organize policy consultation meetings.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Startup Accelerator Intern",
+    "domain": "Entrepreneurship & Professional Skills",
+    "description": "Support early-stage startups with business development and mentorship coordination. Assist in organizing startup events and pitch competitions. Learn about venture capital processes and help evaluate investment opportunities.",
+    "stipend": "₹10,000 - ₹18,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Machine Learning Engineer Intern",
+    "domain": "IT & ITeS",
+    "description": "Build and deploy ML models for production environments using MLOps best practices. Work with feature engineering, model optimization, and A/B testing frameworks. Collaborate on recommendation systems and predictive analytics for large-scale applications.",
+    "stipend": "₹18,000 - ₹28,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Data Engineer Intern",
+    "domain": "IT & ITeS",
+    "description": "Design and implement data pipelines using Apache Spark, Kafka, and Airflow. Work on ETL processes and data warehouse architecture. Support real-time data streaming and batch processing systems for analytics teams.",
+    "stipend": "₹14,000 - ₹22,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Computer Vision Intern",
+    "domain": "IT & ITeS",
+    "description": "Develop image recognition and object detection models using OpenCV and deep learning frameworks. Work on facial recognition systems and autonomous vehicle perception algorithms. Assist in deploying computer vision solutions on edge devices.",
+    "stipend": "₹16,000 - ₹24,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Natural Language Processing Intern",
+    "domain": "IT & ITeS",
+    "description": "Build chatbots and language understanding models using BERT, GPT, and transformer architectures. Work on sentiment analysis, text classification, and language translation projects. Assist in developing conversational AI applications.",
+    "stipend": "₹15,000 - ₹23,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Backend Developer Intern",
+    "domain": "IT & ITeS",
+    "description": "Develop scalable server-side applications using Node.js, Python Django, or Java Spring. Work on API design, database optimization, and microservices architecture. Support system performance monitoring and debugging activities.",
+    "stipend": "₹11,000 - ₹19,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Frontend Developer Intern",
+    "domain": "IT & ITeS",
+    "description": "Create responsive web interfaces using React, Vue.js, or Angular frameworks. Implement modern CSS techniques and JavaScript ES6+ features. Work on progressive web applications and cross-browser compatibility testing.",
+    "stipend": "₹10,000 - ₹17,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Site Reliability Engineer Intern",
+    "domain": "IT & ITeS",
+    "description": "Monitor system reliability and implement automated incident response procedures. Work with monitoring tools like Prometheus, Grafana, and ELK stack. Assist in capacity planning and disaster recovery implementations.",
+    "stipend": "₹13,000 - ₹21,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Database Administrator Intern",
+    "domain": "IT & ITeS",
+    "description": "Manage and optimize MySQL, PostgreSQL, and MongoDB databases for performance and reliability. Assist in database migration projects and backup/recovery procedures. Learn about database security and compliance requirements.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Noida"
+  },
+  {
+    "title": "Network Security Intern",
+    "domain": "IT & ITeS",
+    "description": "Configure firewalls, VPNs, and intrusion detection systems for enterprise networks. Assist in security audits and vulnerability assessments. Learn about network protocols and help implement zero-trust security models.",
+    "stipend": "₹11,000 - ₹18,000",
+    "location": "Gurgaon"
+  },
+  {
+    "title": "Ethical Hacking Intern",
+    "domain": "IT & ITeS",
+    "description": "Perform penetration testing on web applications and network infrastructure. Learn about OWASP top 10 vulnerabilities and security testing methodologies. Assist in preparing security assessment reports and remediation recommendations.",
+    "stipend": "₹12,000 - ₹20,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Cloud Architect Intern",
+    "domain": "IT & ITeS",
+    "description": "Design cloud infrastructure solutions using AWS, Azure, or Google Cloud Platform. Work on serverless architectures and container orchestration. Assist in cloud cost optimization and security best practices implementation.",
+    "stipend": "₹15,000 - ₹25,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Software Testing Intern",
+    "domain": "IT & ITeS",
+    "description": "Develop automated test scripts using Selenium, Cypress, and TestNG frameworks. Perform API testing and load testing for web applications. Support continuous integration testing and bug tracking processes.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Technical Writer Intern",
+    "domain": "IT & ITeS",
+    "description": "Create comprehensive technical documentation for software products and APIs. Write user manuals, developer guides, and system architecture documents. Collaborate with engineering teams to ensure documentation accuracy and clarity.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Remote"
+  },
+  {
+    "title": "Product Manager Intern",
+    "domain": "IT & ITeS",
+    "description": "Support product roadmap development and feature prioritization based on user feedback and market research. Assist in user story creation and sprint planning activities. Learn about product analytics and A/B testing methodologies.",
+    "stipend": "₹12,000 - ₹20,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Business Analyst Intern",
+    "domain": "IT & ITeS",
+    "description": "Analyze business requirements and translate them into technical specifications for development teams. Create process flow diagrams and user acceptance criteria. Support stakeholder meetings and project coordination activities.",
+    "stipend": "₹10,000 - ₹16,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Scrum Master Intern",
+    "domain": "IT & ITeS",
+    "description": "Facilitate agile development processes and daily standups for software teams. Learn about sprint planning, retrospectives, and backlog management. Assist in removing blockers and improving team productivity through agile methodologies.",
+    "stipend": "₹11,000 - ₹17,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Information Security Intern",
+    "domain": "IT & ITeS",
+    "description": "Develop security policies and procedures for organizational compliance with ISO 27001 and GDPR. Assist in security awareness training and incident response planning. Learn about identity and access management systems.",
+    "stipend": "₹10,000 - ₹17,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "IT Support Intern",
+    "domain": "IT & ITeS",
+    "description": "Provide technical support for hardware and software issues across the organization. Assist in system installations, network troubleshooting, and user training. Learn about ITIL service management and ticketing systems.",
+    "stipend": "₹7,000 - ₹12,000",
+    "location": "Kolkata"
+  },
+  {
+    "title": "Systems Administrator Intern",
+    "domain": "IT & ITeS",
+    "description": "Manage Linux and Windows servers for enterprise applications and services. Assist in system monitoring, backup management, and security patch deployment. Learn about virtualization technologies and server optimization techniques.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Ahmedabad"
+  },
+  {
+    "title": "ERP Implementation Intern",
+    "domain": "IT & ITeS",
+    "description": "Support SAP, Oracle, or Microsoft Dynamics ERP system implementations and customizations. Assist in business process mapping and user training programs. Learn about enterprise software integration and data migration procedures.",
+    "stipend": "₹11,000 - ₹18,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Salesforce Developer Intern",
+    "domain": "IT & ITeS",
+    "description": "Develop custom applications on the Salesforce platform using Apex, Lightning, and Visualforce. Assist in CRM customization and workflow automation. Learn about Salesforce administration and integration with third-party systems.",
+    "stipend": "₹12,000 - ₹19,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "WordPress Developer Intern",
+    "domain": "IT & ITeS",
+    "description": "Build custom WordPress themes and plugins for client websites. Work on e-commerce solutions using WooCommerce and payment gateway integrations. Assist in website optimization and SEO implementation.",
+    "stipend": "₹8,000 - ₹13,000",
+    "location": "Jaipur"
+  },
+  {
+    "title": "E-commerce Developer Intern",
+    "domain": "IT & ITeS",
+    "description": "Develop online shopping platforms using Magento, Shopify, or custom solutions. Work on payment processing, inventory management, and customer review systems. Assist in mobile app development for e-commerce applications.",
+    "stipend": "₹10,000 - ₹17,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Game Designer Intern",
+    "domain": "Media & Entertainment",
+    "description": "Create game concepts, level designs, and character development for mobile and PC games. Work on game balance, progression systems, and user experience optimization. Collaborate with artists and developers on game production pipelines.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "3D Artist Intern",
+    "domain": "Media & Entertainment",
+    "description": "Create 3D models, textures, and animations for games, films, and virtual reality experiences. Work with software like Blender, Maya, and 3ds Max. Assist in rendering optimization and asset pipeline development.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Video Editor Intern",
+    "domain": "Media & Entertainment",
+    "description": "Edit promotional videos, documentaries, and social media content using Adobe Premiere Pro and After Effects. Work on color correction, audio editing, and motion graphics. Support live streaming and video production workflows.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Social Media Manager Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Manage brand presence across Facebook, Instagram, Twitter, and LinkedIn platforms. Create content calendars and engagement strategies to grow follower base. Analyze social media metrics and optimize campaigns for better reach.",
+    "stipend": "₹6,000 - ₹11,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "SEO Specialist Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Optimize website content and structure for search engine rankings. Conduct keyword research and competitive analysis for content strategy. Implement technical SEO improvements and monitor website performance metrics.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Pune"
+  },
+  {
+    "title": "PPC Campaign Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Manage Google Ads and Facebook advertising campaigns for lead generation and sales. Optimize ad targeting, bidding strategies, and landing page performance. Analyze campaign ROI and prepare performance reports.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Email Marketing Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Design and execute email marketing campaigns using platforms like Mailchimp and HubSpot. Create automated drip campaigns and newsletter templates. Analyze open rates, click-through rates, and conversion metrics.",
+    "stipend": "₹6,000 - ₹12,000",
+    "location": "Remote"
+  },
+  {
+    "title": "Influencer Marketing Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Identify and collaborate with social media influencers for brand partnerships and campaigns. Manage influencer relationships and track campaign performance metrics. Assist in negotiating contracts and content approval processes.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Market Research Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Conduct consumer surveys and focus groups to gather market insights. Analyze competitor strategies and industry trends for strategic planning. Prepare market research reports and present findings to stakeholders.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Public Relations Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Write press releases and manage media relationships for brand publicity. Coordinate with journalists and organize press conferences or media events. Monitor brand mentions and manage crisis communication strategies.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Graphic Design Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Create visual designs for marketing materials, websites, and social media campaigns. Work with Adobe Creative Suite to develop logos, brochures, and digital advertisements. Collaborate with marketing teams on brand identity projects.",
+    "stipend": "₹7,000 - ₹12,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Corporate Banking Intern",
+    "domain": "BFSI",
+    "description": "Support relationship managers in serving corporate clients with banking solutions. Assist in credit analysis, loan documentation, and account management activities. Learn about trade finance and cash management services.",
+    "stipend": "₹10,000 - ₹18,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Insurance Underwriter Intern",
+    "domain": "BFSI",
+    "description": "Evaluate insurance applications and assess risk factors for policy approvals. Learn about actuarial analysis and premium calculation methodologies. Assist in claims processing and policy renewal procedures.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Wealth Management Intern",
+    "domain": "BFSI",
+    "description": "Support financial advisors in portfolio management and investment planning for high net worth clients. Learn about mutual funds, equity research, and retirement planning strategies. Assist in client onboarding and KYC procedures.",
+    "stipend": "₹12,000 - ₹20,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Credit Analysis Intern",
+    "domain": "BFSI",
+    "description": "Analyze loan applications and assess borrower creditworthiness using financial statements and credit scores. Support loan approval processes and documentation requirements. Learn about regulatory compliance and risk assessment frameworks.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Compliance Officer Intern",
+    "domain": "BFSI",
+    "description": "Monitor regulatory compliance with RBI guidelines and banking regulations. Assist in audit preparations and compliance testing procedures. Learn about anti-money laundering policies and know-your-customer requirements.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Trading Intern",
+    "domain": "BFSI",
+    "description": "Support equity and derivatives trading operations in capital markets. Learn about market analysis, technical indicators, and trading strategies. Assist in trade settlement and risk monitoring activities.",
+    "stipend": "₹15,000 - ₹25,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Digital Banking Intern",
+    "domain": "BFSI",
+    "description": "Work on mobile banking applications and online payment systems development. Support UX improvements for digital banking platforms. Assist in implementing new financial technology features and customer onboarding flows.",
+    "stipend": "₹11,000 - ₹18,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Clinical Data Management Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Manage clinical trial data collection and ensure data quality and integrity. Work with EDC systems and support regulatory submission requirements. Assist in statistical analysis and clinical study report preparation.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Pharmaceutical Research Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Support drug discovery and development processes in pharmaceutical laboratories. Assist in formulation development and stability testing of medications. Learn about regulatory approval processes and good manufacturing practices.",
+    "stipend": "₹10,000 - ₹17,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Medical Device Testing Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Test medical devices for safety and efficacy according to FDA and ISO standards. Assist in quality control procedures and documentation requirements. Learn about biocompatibility testing and regulatory compliance.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Health Informatics Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Work on electronic health record systems and healthcare data analytics projects. Support interoperability initiatives and health information exchange. Assist in implementing healthcare IT solutions and user training programs.",
+    "stipend": "₹11,000 - ₹18,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Nursing Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Provide patient care under supervision in hospital settings and assist with medical procedures. Learn about patient assessment, medication administration, and infection control protocols. Support healthcare teams in emergency and routine care situations.",
+    "stipend": "₹6,000 - ₹12,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Physiotherapy Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Assist licensed physiotherapists in patient rehabilitation and treatment programs. Learn about therapeutic exercises, manual therapy techniques, and patient assessment procedures. Support sports injury recovery and chronic pain management protocols.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Mental Health Counseling Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Support mental health professionals in providing counseling services and therapy sessions. Learn about psychological assessment techniques and treatment planning. Assist in group therapy sessions and mental health awareness programs.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Strategy Consulting Intern",
+    "domain": "Management",
+    "description": "Support strategic planning initiatives and competitive analysis for client organizations. Assist in market entry strategies and business model optimization. Learn about management frameworks and help prepare executive presentations.",
+    "stipend": "₹15,000 - ₹28,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Human Resources Intern",
+    "domain": "Management",
+    "description": "Support recruitment processes including candidate screening and interview coordination. Assist in employee onboarding, training program development, and performance management systems. Learn about HR policies and compliance requirements.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Project Management Intern",
+    "domain": "Management",
+    "description": "Support project planning, scheduling, and resource allocation using tools like MS Project and Jira. Assist in stakeholder communication and project status reporting. Learn about agile and waterfall project management methodologies.",
+    "stipend": "₹10,000 - ₹16,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Change Management Intern",
+    "domain": "Management",
+    "description": "Support organizational change initiatives and transformation projects. Assist in change impact assessments and stakeholder engagement strategies. Learn about change management frameworks and employee communication plans.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Performance Management Intern",
+    "domain": "Management",
+    "description": "Support performance evaluation processes and goal-setting frameworks for employees. Assist in developing KPI dashboards and performance improvement plans. Learn about talent management and succession planning strategies.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Quality Management Intern",
+    "domain": "Management",
+    "description": "Support ISO certification processes and quality management system implementations. Assist in quality audits, process documentation, and continuous improvement initiatives. Learn about Six Sigma and lean management principles.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Restaurant Management Intern",
+    "domain": "Tourism & Hospitality",
+    "description": "Learn restaurant operations including menu planning, inventory management, and customer service excellence. Assist in staff training and quality control procedures. Support cost management and revenue optimization initiatives.",
+    "stipend": "₹6,000 - ₹11,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Resort Operations Intern",
+    "domain": "Tourism & Hospitality",
+    "description": "Support resort management activities including guest services, housekeeping coordination, and recreational program management. Assist in booking systems and customer relationship management. Learn about hospitality software and revenue management.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Goa"
+  },
+  {
+    "title": "Cruise Operations Intern",
+    "domain": "Tourism & Hospitality",
+    "description": "Support cruise ship operations including guest entertainment, dining services, and shore excursion coordination. Learn about maritime hospitality and international travel regulations. Assist in guest relations and activity planning.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Kochi"
+  },
+  {
+    "title": "Travel Technology Intern",
+    "domain": "Tourism & Hospitality",
+    "description": "Work on travel booking platforms and mobile applications for tourism services. Support API integrations with airlines, hotels, and travel suppliers. Assist in developing travel recommendation systems and user experience improvements.",
+    "stipend": "₹10,000 - ₹17,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Tourism Marketing Intern",
+    "domain": "Tourism & Hospitality",
+    "description": "Promote tourist destinations and hospitality services through digital marketing campaigns. Create travel content and manage social media presence for tourism boards. Support partnership development with travel agencies and tour operators.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Jaipur"
+  },
+  {
+    "title": "Logistics Coordinator Intern",
+    "domain": "Logistics & Supply Chain",
+    "description": "Coordinate shipment scheduling and track cargo movements across different transportation modes. Assist in documentation requirements for import/export operations. Learn about customs clearance and international trade regulations.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Transportation Planning Intern",
+    "domain": "Logistics & Supply Chain",
+    "description": "Optimize delivery routes and fleet utilization for cost-effective transportation. Work with GPS tracking systems and route optimization software. Support driver management and vehicle maintenance scheduling.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Freight Management Intern",
+    "domain": "Logistics & Supply Chain",
+    "description": "Manage freight operations including carrier selection, rate negotiation, and shipment tracking. Assist in freight audit processes and cost analysis. Learn about different shipping modes and international freight forwarding.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Cold Chain Management Intern",
+    "domain": "Logistics & Supply Chain",
+    "description": "Monitor temperature-controlled logistics for pharmaceutical and food products. Support cold storage facility operations and temperature monitoring systems. Learn about regulatory compliance for cold chain transportation.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "E-commerce Logistics Intern",
+    "domain": "Logistics & Supply Chain",
+    "description": "Support last-mile delivery operations and customer order fulfillment for online retailers. Work on return merchandise management and customer service coordination. Assist in delivery performance optimization and cost reduction initiatives.",
+    "stipend": "₹7,000 - ₹12,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Procurement Intern",
+    "domain": "Logistics & Supply Chain",
+    "description": "Support vendor selection processes and purchase order management activities. Assist in supplier relationship management and contract negotiations. Learn about sourcing strategies and cost analysis for procurement decisions.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Financial Analyst Intern",
+    "domain": "Accounts",
+    "description": "Analyze financial statements and prepare variance analysis reports for management review. Support budget preparation and forecasting activities. Assist in financial modeling and investment analysis for capital expenditure decisions.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Cost Accounting Intern",
+    "domain": "Accounts",
+    "description": "Calculate product costing and analyze manufacturing overhead allocations. Support standard costing procedures and variance analysis. Assist in inventory valuation and cost control initiatives for production departments.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Audit Intern",
+    "domain": "Accounts",
+    "description": "Support external audit procedures including financial statement review and compliance testing. Assist in internal audit activities and control testing procedures. Learn about audit documentation and regulatory reporting requirements.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Treasury Management Intern",
+    "domain": "Accounts",
+    "description": "Support cash flow management and foreign exchange hedging activities. Assist in bank relationship management and investment portfolio monitoring. Learn about interest rate risk management and liquidity planning.",
+    "stipend": "₹10,000 - ₹17,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Management Accounting Intern",
+    "domain": "Accounts",
+    "description": "Prepare management reports and performance dashboards for business units. Support profitability analysis and cost center reporting. Assist in transfer pricing documentation and intercompany reconciliation activities.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Online Learning Platform Intern",
+    "domain": "Education & Training",
+    "description": "Support development of online courses and learning management system administration. Create interactive course content and assessment tools. Assist in learner analytics and course completion tracking systems.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Remote"
+  },
+  {
+    "title": "Corporate Training Intern",
+    "domain": "Education & Training",
+    "description": "Design and deliver professional development programs for corporate clients. Support training needs analysis and program evaluation activities. Assist in e-learning content creation and instructor-led training coordination.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Educational Assessment Intern",
+    "domain": "Education & Training",
+    "description": "Develop standardized tests and assessment tools for educational institutions. Support psychometric analysis and test validation procedures. Assist in adaptive testing systems and learning outcome measurement.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Student Services Intern",
+    "domain": "Education & Training",
+    "description": "Support student enrollment, academic advising, and career counseling services. Assist in student engagement programs and retention initiatives. Learn about educational administration and student information systems.",
+    "stipend": "₹6,000 - ₹11,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Language Learning Intern",
+    "domain": "Education & Training",
+    "description": "Develop language learning curriculum and interactive teaching materials. Support online language tutoring and conversation practice sessions. Assist in language proficiency assessment and certification programs.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Solar Energy Intern",
+    "domain": "Energy & Sustainability",
+    "description": "Support solar panel installation projects and system performance monitoring. Assist in solar energy feasibility studies and financial modeling. Learn about grid-tied systems and energy storage integration.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Rajkot"
+  },
+  {
+    "title": "Wind Energy Intern",
+    "domain": "Energy & Sustainability",
+    "description": "Support wind farm development projects including site assessment and environmental impact studies. Assist in wind turbine maintenance scheduling and performance optimization. Learn about wind resource analysis and grid integration.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Energy Efficiency Intern",
+    "domain": "Energy & Sustainability",
+    "description": "Conduct energy audits for commercial and industrial facilities to identify conservation opportunities. Support implementation of energy management systems and green building certifications. Assist in carbon footprint analysis and reporting.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Environmental Compliance Intern",
+    "domain": "Energy & Sustainability",
+    "description": "Monitor environmental regulations and support compliance reporting for manufacturing facilities. Assist in waste management programs and pollution control initiatives. Learn about environmental impact assessments and permitting processes.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Carbon Trading Intern",
+    "domain": "Energy & Sustainability",
+    "description": "Support carbon offset project development and verification activities. Assist in emissions trading and carbon credit management. Learn about climate change mitigation strategies and international carbon markets.",
+    "stipend": "₹10,000 - ₹17,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Smart Farming Intern",
+    "domain": "Agriculture & Rural Development",
+    "description": "Implement IoT sensors and precision agriculture technologies to optimize crop yields and resource utilization. Work on automated irrigation systems and drone-based crop monitoring. Support farmers in adopting digital agriculture solutions and data-driven farming practices.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Organic Farming Intern",
+    "domain": "Agriculture & Rural Development",
+    "description": "Support organic certification processes and sustainable farming practice implementation. Assist in soil health testing and natural pest management strategies. Learn about organic fertilizer production and crop rotation techniques.",
+    "stipend": "₹6,000 - ₹12,000",
+    "location": "Nashik"
+  },
+  {
+    "title": "Agricultural Finance Intern",
+    "domain": "Agriculture & Rural Development",
+    "description": "Support rural lending programs and farmer financial literacy initiatives. Assist in crop insurance claim processing and microfinance operations. Learn about agricultural commodity trading and risk management strategies.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Indore"
+  },
+  {
+    "title": "Food Processing Intern",
+    "domain": "Agriculture & Rural Development",
+    "description": "Support food processing plant operations including quality control and packaging activities. Assist in new product development and shelf-life testing procedures. Learn about food safety regulations and HACCP implementation.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Mysuru"
+  },
+  {
+    "title": "Dairy Technology Intern",
+    "domain": "Agriculture & Rural Development",
+    "description": "Work on milk processing, quality testing, and dairy product development. Support cold chain management for dairy distribution networks. Assist in dairy farm management and cattle health monitoring systems.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Anand"
+  },
+  {
+    "title": "Fisheries Management Intern",
+    "domain": "Agriculture & Rural Development",
+    "description": "Support aquaculture operations and fish breeding programs. Assist in water quality monitoring and fish health management. Learn about sustainable fishing practices and marine conservation initiatives.",
+    "stipend": "₹6,000 - ₹12,000",
+    "location": "Kochi"
+  },
+  {
+    "title": "Government Relations Intern",
+    "domain": "Public Policy & Governance",
+    "description": "Support public affairs activities and stakeholder engagement with government agencies. Assist in policy advocacy and regulatory compliance monitoring. Learn about legislative processes and government communication strategies.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Public Administration Intern",
+    "domain": "Public Policy & Governance",
+    "description": "Support municipal administration and citizen service delivery programs. Assist in e-governance initiatives and digital service implementations. Learn about public procurement processes and administrative procedures.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Social Impact Intern",
+    "domain": "Public Policy & Governance",
+    "description": "Work on community development programs and social welfare initiatives. Support NGO operations and volunteer coordination activities. Assist in impact measurement and program evaluation for social projects.",
+    "stipend": "₹6,000 - ₹12,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Urban Planning Intern",
+    "domain": "Public Policy & Governance",
+    "description": "Support city planning projects and infrastructure development initiatives. Assist in traffic management studies and public transportation planning. Learn about smart city technologies and urban sustainability practices.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Legal Research Intern",
+    "domain": "Public Policy & Governance",
+    "description": "Conduct legal research and assist in preparing legal briefs and case documentation. Support regulatory analysis and compliance assessments. Learn about constitutional law and administrative legal procedures.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Venture Capital Intern",
+    "domain": "Entrepreneurship & Professional Skills",
+    "description": "Support due diligence processes for startup investments and portfolio company management. Assist in market research and competitive analysis for investment decisions. Learn about term sheet negotiations and startup valuation methods.",
+    "stipend": "₹15,000 - ₹25,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Startup Operations Intern",
+    "domain": "Entrepreneurship & Professional Skills",
+    "description": "Support day-to-day operations of early-stage startups including administrative and operational activities. Assist in business process documentation and system implementations. Learn about scaling challenges and growth strategies.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Business Incubation Intern",
+    "domain": "Entrepreneurship & Professional Skills",
+    "description": "Support startup mentorship programs and entrepreneurship development activities. Assist in organizing pitch events and demo days for startups. Learn about business model validation and go-to-market strategies.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Innovation Management Intern",
+    "domain": "Entrepreneurship & Professional Skills",
+    "description": "Support corporate innovation programs and internal startup initiatives. Assist in idea generation workshops and innovation challenge management. Learn about design thinking and lean startup methodologies.",
+    "stipend": "₹10,000 - ₹17,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Social Entrepreneurship Intern",
+    "domain": "Entrepreneurship & Professional Skills",
+    "description": "Work with social enterprises on sustainable business models that address social challenges. Support impact measurement and stakeholder engagement activities. Learn about blended finance and social impact investing.",
+    "stipend": "₹7,000 - ₹14,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Mechanical Engineering Intern",
+    "domain": "Engineering & Manufacturing",
+    "description": "Support product design and development using CAD software like SolidWorks and AutoCAD. Assist in manufacturing process optimization and quality control procedures. Learn about lean manufacturing and continuous improvement methodologies.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Electrical Engineering Intern",
+    "domain": "Engineering & Manufacturing",
+    "description": "Work on electrical system design and power distribution projects. Assist in PCB design and embedded systems development. Support electrical testing and commissioning activities for industrial equipment.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Civil Engineering Intern",
+    "domain": "Engineering & Manufacturing",
+    "description": "Support construction project management and structural design activities. Assist in site supervision and quality assurance for building projects. Learn about project scheduling and cost estimation techniques.",
+    "stipend": "₹7,000 - ₹14,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Chemical Engineering Intern",
+    "domain": "Engineering & Manufacturing",
+    "description": "Work on chemical process design and optimization in manufacturing facilities. Assist in process safety analysis and environmental compliance monitoring. Support pilot plant operations and scale-up activities.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Vadodara"
+  },
+  {
+    "title": "Aerospace Engineering Intern",
+    "domain": "Engineering & Manufacturing",
+    "description": "Support aircraft design and testing activities including aerodynamic analysis and structural calculations. Assist in flight testing procedures and data analysis. Learn about aerospace materials and manufacturing processes.",
+    "stipend": "₹12,000 - ₹20,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Automotive Engineering Intern",
+    "domain": "Engineering & Manufacturing",
+    "description": "Work on vehicle design and development including engine testing and performance optimization. Assist in electric vehicle technology development and autonomous driving systems. Support vehicle safety testing and compliance procedures.",
+    "stipend": "₹10,000 - ₹17,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Manufacturing Engineering Intern",
+    "domain": "Engineering & Manufacturing",
+    "description": "Support production line optimization and industrial automation projects. Assist in implementing Industry 4.0 technologies and smart manufacturing systems. Learn about supply chain integration and operational excellence.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Pharmaceutical Manufacturing Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Support drug manufacturing processes and quality assurance activities in pharmaceutical facilities. Assist in batch record review and deviation investigations. Learn about FDA regulations and good manufacturing practices.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Regulatory Affairs Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Support drug approval processes and regulatory submission preparation. Assist in clinical trial documentation and FDA correspondence. Learn about international regulatory requirements and pharmacovigilance procedures.",
+    "stipend": "₹10,000 - ₹17,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Laboratory Technician Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Perform laboratory tests and sample analysis using various analytical instruments. Assist in method validation and quality control procedures. Support laboratory accreditation and compliance activities.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Telemedicine Intern",
+    "domain": "Healthcare & Life Sciences",
+    "description": "Support virtual healthcare delivery platforms and remote patient monitoring systems. Assist in telehealth program development and patient engagement strategies. Learn about healthcare interoperability and digital health regulations.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Remote"
+  },
+  {
+    "title": "Animation Intern",
+    "domain": "Media & Entertainment",
+    "description": "Create 2D and 3D animations for films, advertisements, and digital media projects. Work with software like Adobe After Effects, Maya, and Cinema 4D. Assist in character design and visual effects production.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Audio Production Intern",
+    "domain": "Media & Entertainment",
+    "description": "Support music production, sound design, and audio post-production activities. Work with Pro Tools, Logic Pro, and other digital audio workstations. Assist in podcast production and audio content creation.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Broadcasting Intern",
+    "domain": "Media & Entertainment",
+    "description": "Support television and radio broadcasting operations including live production and content scheduling. Assist in news gathering and program coordination activities. Learn about broadcast technology and media distribution systems.",
+    "stipend": "₹6,000 - ₹12,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Digital Content Strategy Intern",
+    "domain": "Media & Entertainment",
+    "description": "Develop content strategies for streaming platforms and digital media channels. Assist in audience analysis and content performance optimization. Support influencer partnerships and brand collaboration initiatives.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Music Production Intern",
+    "domain": "Media & Entertainment",
+    "description": "Assist in music recording, mixing, and mastering processes in professional studios. Work with artists on song arrangement and production techniques. Learn about music distribution and artist development strategies.",
+    "stipend": "₹7,000 - ₹14,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Photography Intern",
+    "domain": "Media & Entertainment",
+    "description": "Support commercial photography projects including product, fashion, and event photography. Assist in photo editing and post-production workflows. Learn about studio lighting and photography business management.",
+    "stipend": "₹6,000 - ₹11,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Affiliate Marketing Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Manage affiliate partner relationships and performance marketing campaigns. Track commission structures and optimize affiliate program performance. Support recruitment of new affiliate partners and relationship management.",
+    "stipend": "₹7,000 - ₹13,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Conversion Rate Optimization Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Analyze website user behavior and implement A/B tests to improve conversion rates. Work with tools like Google Analytics and Hotjar for user experience analysis. Support landing page optimization and checkout process improvements.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Marketing Automation Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Implement marketing automation workflows using platforms like HubSpot and Marketo. Create lead nurturing campaigns and customer journey mapping. Support CRM integration and marketing qualified lead processes.",
+    "stipend": "₹9,000 - ₹16,000",
+    "location": "Pune"
+  },
+  {
+    "title": "Brand Partnership Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Identify and manage strategic brand partnership opportunities and co-marketing initiatives. Support partnership agreement negotiations and campaign execution. Assist in measuring partnership ROI and performance metrics.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Customer Experience Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Analyze customer journey touchpoints and identify experience improvement opportunities. Support customer feedback collection and Net Promoter Score initiatives. Assist in customer retention and loyalty program development.",
+    "stipend": "₹7,000 - ₹14,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Trade Marketing Intern",
+    "domain": "Marketing & Advertising",
+    "description": "Support channel partner marketing and retail activation programs. Assist in trade promotion planning and point-of-sale material development. Learn about distributor relationships and retail merchandising strategies.",
+    "stipend": "₹8,000 - ₹14,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Investment Research Intern",
+    "domain": "BFSI",
+    "description": "Conduct equity research and financial modeling for investment recommendations. Support sector analysis and company valuation activities. Assist in preparing research reports and investment presentations for clients.",
+    "stipend": "₹12,000 - ₹22,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Private Equity Intern",
+    "domain": "BFSI",
+    "description": "Support private equity deal sourcing and due diligence activities. Assist in portfolio company monitoring and value creation initiatives. Learn about leveraged buyouts and growth capital investments.",
+    "stipend": "₹18,000 - ₹30,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Hedge Fund Operations Intern",
+    "domain": "BFSI",
+    "description": "Support hedge fund operations including trade settlement, NAV calculation, and investor reporting. Assist in risk management and performance attribution analysis. Learn about alternative investment strategies and fund administration.",
+    "stipend": "₹15,000 - ₹25,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Actuarial Science Intern",
+    "domain": "BFSI",
+    "description": "Support actuarial modeling for insurance pricing and reserve calculations. Assist in mortality and morbidity analysis for life and health insurance products. Learn about statistical modeling and regulatory capital requirements.",
+    "stipend": "₹11,000 - ₹19,000",
+    "location": "Chennai"
+  },
+  {
+    "title": "Microfinance Intern",
+    "domain": "BFSI",
+    "description": "Support microfinance lending operations and customer relationship management. Assist in credit assessment for small borrowers and collection activities. Learn about financial inclusion and rural banking strategies.",
+    "stipend": "₹6,000 - ₹12,000",
+    "location": "Hyderabad"
+  },
+  {
+    "title": "Payment Systems Intern",
+    "domain": "BFSI",
+    "description": "Work on digital payment platform development and transaction processing systems. Support UPI integration and mobile wallet functionalities. Assist in payment security and fraud detection implementations.",
+    "stipend": "₹12,000 - ₹20,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Blockchain Finance Intern",
+    "domain": "BFSI",
+    "description": "Work on blockchain applications for financial services including smart contracts and cryptocurrency trading platforms. Support decentralized finance (DeFi) protocol development and digital asset management systems.",
+    "stipend": "₹16,000 - ₹26,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Export-Import Operations Intern",
+    "domain": "Logistics & Supply Chain",
+    "description": "Support international trade documentation and customs clearance procedures. Assist in letter of credit processing and trade finance operations. Learn about Incoterms and international shipping regulations.",
+    "stipend": "₹9,000 - ₹15,000",
+    "location": "Mumbai"
+  },
+  {
+    "title": "Supply Chain Technology Intern",
+    "domain": "Logistics & Supply Chain",
+    "description": "Implement supply chain management software and visibility platforms. Work on IoT integration for shipment tracking and predictive analytics. Support blockchain implementation for supply chain transparency.",
+    "stipend": "₹11,000 - ₹18,000",
+    "location": "Bangalore"
+  },
+  {
+    "title": "Aviation Management Intern",
+    "domain": "Tourism & Hospitality",
+    "description": "Support airport operations and airline customer service management. Assist in flight scheduling and crew resource planning. Learn about aviation safety regulations and passenger service standards.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Delhi"
+  },
+  {
+    "title": "Spa and Wellness Intern",
+    "domain": "Tourism & Hospitality",
+    "description": "Support spa operations and wellness program development in hospitality settings. Assist in treatment scheduling and customer wellness consultations. Learn about holistic health practices and wellness tourism trends.",
+    "stipend": "₹6,000 - ₹12,000",
+    "location": "Kerala"
+  },
+  {
+    "title": "E-sports Management Intern",
+    "domain": "Media & Entertainment",
+    "description": "Support e-sports tournament organization and team management activities. Assist in live streaming production and audience engagement strategies. Learn about gaming industry trends and sponsorship management.",
+    "stipend": "₹8,000 - ₹15,000",
+    "location": "Mumbai"
+  }
+]
