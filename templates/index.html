@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Internship Recommendation System</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Segoe UI", Arial, sans-serif;
+            margin: 0;
+            background: #f2f5f9;
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+
+        header p {
+            margin-top: 8px;
+            font-size: 15px;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+
+        .form-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            margin-bottom: 30px;
+        }
+
+        label {
+            font-weight: 600;
+            display: block;
+            margin-top: 15px;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 6px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            font-size: 14px;
+        }
+
+        button {
+            margin-top: 20px;
+            width: 100%;
+            padding: 12px;
+            background: #1e88e5;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #1565c0;
+        }
+
+        .results {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 18px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.07);
+            transition: transform 0.2s;
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+        }
+
+        .card h3 {
+            margin-top: 0;
+            font-size: 18px;
+            color: #1e3c72;
+        }
+
+        .card p {
+            font-size: 14px;
+            margin: 6px 0;
+        }
+
+        .meta {
+            margin-top: 10px;
+            font-size: 13px;
+            color: #555;
+        }
+
+        .score {
+            margin-top: 10px;
+            font-weight: bold;
+            color: #2e7d32;
+        }
+
+        .error {
+            color: red;
+            text-align: center;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>AI Internship Recommendation System</h1>
+    <p>Get top internship recommendations based on your skills & domain</p>
+</header>
+
+<div class="container">
+
+    <div class="form-card">
+        <label>Enter your skills (comma separated)</label>
+        <input type="text" id="skills" placeholder="python, nlp, machine learning">
+
+        <label>Select Domain</label>
+        <select id="domain">
+            <option value="">-- Select Domain --</option>
+            <option value="Accounts">Accounts</option>
+            <option value="Agriculture_and_Rural_Development">Agriculture and Rural Development</option>
+            <option value="BFSI">BFSI</option>
+            <option value="Education_and_Training">Education and Training</option>
+            <option value="Energy_and_Sustainability">Energy and Sustainability</option>
+            <option value="Engineering_and_Manufacturing">Engineering and Manufacturing</option>
+            <option value="Entrepreneurship_and_Professional_Skills">Entrepreneurship and Professional Skills</option>
+            <option value="Healthcare_and_Life_Sciences">Healthcare and Life Sciences</option>
+            <option value="IT_and_ITeS">IT and ITeS</option>
+            <option value="Logistics_and_Supply_Chain">Logistics and Supply Chain</option>
+            <option value="Management">Management</option>
+            <option value="Marketing_and_Advertising">Marketing and Advertising</option>
+            <option value="Media_and_Entertainment">Media and Entertainment</option>
+            <option value="Public_Policy_and_Governance">Public Policy and Governance</option>
+            <option value="Tourism_and_Hospitality">Tourism and Hospitality</option>
+        </select>
+
+        <button onclick="getRecommendations()">Get Top Internships</button>
+    </div>
+
+    <div id="error" class="error"></div>
+    <div id="results" class="results"></div>
+</div>
+
+<script>
+    function getRecommendations() {
+        const skillsInput = document.getElementById("skills").value;
+        const domain = document.getElementById("domain").value;
+        const resultsDiv = document.getElementById("results");
+        const errorDiv = document.getElementById("error");
+
+        resultsDiv.innerHTML = "";
+        errorDiv.innerHTML = "";
+
+        if (!skillsInput || !domain) {
+            errorDiv.innerText = "Please enter skills and select a domain.";
+            return;
+        }
+
+        const skills = skillsInput.split(",").map(s => s.trim());
+
+        fetch("/recommend", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ skills, domain })
+        })
+        .then(res => res.json())
+        .then(data => {
+            if (data.error) {
+                errorDiv.innerText = data.error;
+                return;
+            }
+
+            if (data.count === 0) {
+                errorDiv.innerText = "No internships found for this domain.";
+                return;
+            }
+
+            data.recommendations.forEach(rec => {
+                const card = document.createElement("div");
+                card.className = "card";
+                card.innerHTML = `
+                    <h3>${rec.title}</h3>
+                    <p>${rec.description}</p>
+                    <div class="meta">
+                        <p><b>Location:</b> ${rec.location || "N/A"}</p>
+                        <p><b>Stipend:</b> ${rec.stipend || "N/A"}</p>
+                    </div>
+                    <div class="score">Score: ${rec.final_score}</div>
+                `;
+                resultsDiv.appendChild(card);
+            });
+        })
+        .catch(err => {
+            errorDiv.innerText = "Server error. Try again.";
+        });
+    }
+</script>
+
+</body>
+</html>
