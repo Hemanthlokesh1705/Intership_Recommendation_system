@@ -1,11 +1,9 @@
-Here is the redesigned `README.md` for your **Internship Recommendation System**, following the professional aesthetic and structure of your SmartSerpent project while maintaining technical accuracy for this specific system.
-
----
 
 # 🎓 Internship Recommendation System
 
 <p align="center">
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:4a90e2,100:1e3c72&height=250&section=header&text=Internship%20Recommender&fontSize=50&fontColor=ffffff&fontAlignY=35](https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:4a90e2,100:1e3c72%26height%3D250%26section%3Dheader%26text%3DInternship%2520Recommender%26fontSize%3D50%26fontColor%3Dffffff%26fontAlignY%3D35)"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:4a90e2,100:1e3c72&height=250&section=header&text=Internship%20Recommender&fontSize=50&fontColor=ffffff&fontAlignY=35](https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:4a90e2,100:1e3c72%26height%3D250%26section%3Dheader%26text%3DInternship%2520Recommender
+%26fontSize%3D50%26fontColor%3Dffffff%26fontAlignY%3D35)"/>
 </p>
 
 <p align="center">
